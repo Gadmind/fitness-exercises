@@ -1,5 +1,5 @@
 <div align="center">
-
+# 本项目仅作学习使用，原项目 Github 地址 [exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)
 # 健身动作数据集
 
 <p>
